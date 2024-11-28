@@ -24,7 +24,7 @@ This learning path is divided into the following key areas:
 
 ## 📂 Access Workshop Materials
 
-All workshop slides, datasets, and coding notebooks can be accessed via the following Google Drive links:
+All workshop recording, slides, datasets, and coding notebooks can be accessed via the following Google Drive links:
 
 - **Deep Learning Fundamentals:** [Google Drive Link](https://drive.google.com/drive/folders/1SDMfvCUU6VgzujS-TPqG33cYn2y1eqJj?usp=sharing)  
 - **Computer Vision:** Coming soon ...
