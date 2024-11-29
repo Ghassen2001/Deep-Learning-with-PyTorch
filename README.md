@@ -27,9 +27,9 @@ This learning path is divided into the following key areas:
 All workshop recording, slides, datasets, and coding notebooks can be accessed via the following Google Drive links:
 
 - **Deep Learning Fundamentals:** [Google Drive Link](https://drive.google.com/drive/folders/1SDMfvCUU6VgzujS-TPqG33cYn2y1eqJj?usp=sharing)  
-- **Computer Vision:** Coming soon ...
-- **Data Augmentation:** Coming soon ... 
-- **Pretrained Models:** Coming soon ...
+- **Computer Vision:** [Google Drive Link](https://drive.google.com/drive/folders/1Xs8I1k_3kQ1KlFiXJyqJazS3s_v6a8fI?usp=sharing)
+- **Data Augmentation:** [Google Drive Link](https://drive.google.com/drive/folders/1O7RIhfGyn9vMRxavXVp2x7fAmkYReyrg?usp=sharing)
+- **Pretrained Models:** [Google Drive Link](https://drive.google.com/drive/folders/1OKslW2Jpf2P4-aVY_Hmoy-QG9dYpBlo-?usp=sharing)
 ---
 
 ## 📚 What You'll Learn
